@@ -5,6 +5,6 @@ I'm interested in working on tooling, libraries or frameworks to help developers
 Some roles I think I'd be a good fit for:
 - Technical dev manager.
 - Technical product owner.
-- Lead software engineer.
+- Software engineer.
 
 I'm keen to work on something that I believe in and believe I can contribute constructively towards. 
