@@ -1,1 +1,1 @@
-This page is a Flutter web app. The text is stored in markdown files and converted to what you are reading using a Flutter package called flutter_markdown. 
+This page is a Flutter web app. It uses flutter_slick, the text is stored in markdown files. It is compiled using Flutter's web assembly mode 
